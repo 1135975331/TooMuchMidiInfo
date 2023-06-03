@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Utilities", "DevionGames.Utilities.csproj", "{7890a927-21d1-4fe6-e9b8-1add02b14907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{d75f784f-0627-4c6e-f344-d4a62592dcfc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.UIWidgets", "DevionGames.UIWidgets.csproj", "{4d4bb06b-0a87-65d0-9856-76b683a25120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{eb149d13-5ee3-ee93-9f2b-df9cc5ced5b0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{4decb554-de6f-1197-8975-29dde6ebff2e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7890a927-21d1-4fe6-e9b8-1add02b14907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7890a927-21d1-4fe6-e9b8-1add02b14907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d75f784f-0627-4c6e-f344-d4a62592dcfc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d75f784f-0627-4c6e-f344-d4a62592dcfc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4d4bb06b-0a87-65d0-9856-76b683a25120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4d4bb06b-0a87-65d0-9856-76b683a25120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eb149d13-5ee3-ee93-9f2b-df9cc5ced5b0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eb149d13-5ee3-ee93-9f2b-df9cc5ced5b0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4decb554-de6f-1197-8975-29dde6ebff2e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4decb554-de6f-1197-8975-29dde6ebff2e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
